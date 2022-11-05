@@ -7,6 +7,7 @@ If you want to use this config, follow these steps: <br />
 2. Now run Micro in your terminal and play some music!
 
 # Preview 💻
+![image](https://user-images.githubusercontent.com/85440857/200107673-e50d10d3-0caf-454f-b59e-b42592a2cb55.png)
 
 # Links 🔗
 - **Catppuccin:** https://github.com/catppuccin/cava <br />
