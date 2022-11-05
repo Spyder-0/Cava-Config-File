@@ -3,7 +3,7 @@ My C.A.V.A Config File. Feel free to use it as you like! The theme I used here i
 
 # Downloading 🔽
 If you want to use this config, follow these steps: <br />
-1. [Download](https://github.com/SpyderGamer/Cava-Config-File/releases) the [`config`]() file and place it in this directory `~/.config/cava`.
+1. [Download](https://github.com/SpyderGamer/Cava-Config-File/releases) the [`config`](https://github.com/SpyderGamer/Cava-Config-File/blob/main/config) file and place it in this directory `~/.config/cava`.
 2. Now run Micro in your terminal and play some music!
 
 # Preview 💻
